@@ -23,9 +23,9 @@ The source code includes:
 2. LuceneIndexerSearcher: This Java projects contains the source code used for Lucene indexing and search.
 
 A simple way to test ShellFusion with an example query:
-Step 1: Download the source code and dataset.
-Step 2: Open the ShellFusion project in an IDE, e.g., PyCharm.
-Step 3: Unzip the dataset to a local directory, e.g., D:\\your_test_dir.
-Step 4: Replace the "experiment_dir" in conf/conf.json by "D:\\your_test_dir".
-Step 5: Replace the paths of the data files and dirs in "online/answer_generator.py".
-Step 6: Run "online/answer_generator.py" for an example query, as listed in the .py file.
+1. Download the source code and dataset.
+2. Open the ShellFusion project in an IDE, e.g., PyCharm.
+3. Unzip the dataset to a local directory, e.g., D:\\your_test_dir.
+4. Replace the "experiment_dir" in conf/conf.json by "D:\\your_test_dir".
+5. Replace the paths of the data files and dirs in "online/answer_generator.py".
+6. Run "online/answer_generator.py" for an example query, as listed in the .py file.
