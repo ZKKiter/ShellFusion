@@ -15,7 +15,7 @@ The dataset includes:
 9. lucene_topN: This folder contains the top-N (=10,000) similar questions retrieved for 434 queries using Lucene search.
 10. embed_topn: This folder contains the top-n (=50) similar questions retrieved for 434 queries using a word embedding approach.
 
-NOTE: Since GitHub limits the maximum size of an uploaded file to 25MB, we zip the data in five .7z files
+NOTE: Since GitHub limits the maximum size of an uploaded file to 25MB, we zip the data in five .7z files.
 For other large amount of data, we will try to release using OneDrive later.
 
 The source code includes:
